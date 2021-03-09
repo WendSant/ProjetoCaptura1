@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: cornflowerblue;
+    margin: 0;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    text-align: center;
+}
+
+.title {
+        color: whitesmoke;
+        font-family: Oswald;
+        margin: 0;
+        font-size: 1.2em;
+}
+
+main {
+    padding: 0;
+    background: url("../images/people.jpg") no-repeat;
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    overflow: auto;
+}
