@@ -100,3 +100,60 @@ select {
 }
 
 
+footer {
+
+    background-color: rgba(31, 30, 30, 0.699);
+    overflow: hidden;
+    padding: 25px;
+    text-align: center;
+
+}
+
+.facecarlos {
+        width: 150px;
+        
+}
+
+.textfooter {
+    max-width: 45%;
+    display: inline-block;
+    margin: 20px;
+    text-align: initial;
+
+}
+
+h3 {
+    font-family: "PT Sans";
+    color: white;
+    font-weight: bold;
+    margin-bottom: 15px;
+    font-size: 1.7rem;
+}
+
+.pfoot {
+    color: white;
+    margin-bottom: 15px;
+}
+
+
+@media screen and (max-width: 600px) {
+
+.formcontainer {
+    background-color: rgba(255,255,255,0.8);
+    float: right;
+    max-width: 550px;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+
+
+
+
+
+
+}
+
+
+
